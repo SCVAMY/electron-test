@@ -6,8 +6,8 @@
 
 <script>
   export default {
-    name: 'electron-test'
-  }
+    name: 'electron-test',
+  };
 </script>
 
 <style>
